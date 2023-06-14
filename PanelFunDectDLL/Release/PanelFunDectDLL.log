@@ -1,0 +1,72 @@
+﻿  PanelFunDectDLL.cpp
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.h(13,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\stdafx.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(58,52): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(58,46): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(456,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(682,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(695,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(718,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(722,56): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(722,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(732,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(736,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(764,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(777,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(799,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(803,56): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(803,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(970,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(978,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(979,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(980,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(981,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(1058,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\PanelFunDectDLL\PanelFunDectDLL.cpp(1124,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+    正在创建库 C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\Release\PanelFunDectDLL.lib 和对象 C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\Release\PanelFunDectDLL.exp
+  正在生成代码
+  1 of 447 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  PanelFunDectDLL.vcxproj -> C:\Users\Administrator\Desktop\新科\新科\PanelFunDectDLL\PanelFunDectDLL - 副本\Release\PanelFunDectDLL.dll

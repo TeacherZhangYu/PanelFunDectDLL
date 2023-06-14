@@ -1,0 +1,60 @@
+﻿  PanelFunDectDLL.cpp
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.h(13,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\stdafx.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(58,52): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(58,46): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(456,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(722,56): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(722,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(732,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(736,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(803,56): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(803,38): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(970,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(978,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(979,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(980,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(981,6): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(1058,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\实验室项目\新科算法\PanelFunDectDLL - 算法\PanelFunDectDLL\PanelFunDectDLL.cpp(1124,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  PanelFunDectDLL.vcxproj -> E:\实验室项目\新科算法\PanelFunDectDLL - 算法\x64\Debug\PanelFunDectDLL.dll
